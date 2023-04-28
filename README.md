@@ -19,8 +19,10 @@ Product Requirements :
 
 Developed Backend logic of Api Using :
 
-Django 4.2
-Django restframework, django-import-export, django-filter
+Django 4.2,
+Django restframework, 
+django-import-export, 
+django-filter
 
 
 Implemented models, serializers, urls and views.
